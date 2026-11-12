@@ -11,6 +11,8 @@
 // @grant        none
 // @run-at       document-idle
 // @noframes
+// @downloadURL https://update.greasyfork.org/scripts/605060/DVI%20%C2%B7%20%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.user.js
+// @updateURL https://update.greasyfork.org/scripts/605060/DVI%20%C2%B7%20%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.meta.js
 // ==/UserScript==
 
 (function () {
