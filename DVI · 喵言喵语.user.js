@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DVI · 喵言喵语
 // @namespace    https://deepveinidle.com/
-// @version      1.0.0.2
+// @version      1.0.1
 // @description  聊天后缀自动补全（可自定义）+ 最新玩家消息「+1」复读；设置并入游戏「设置」面板
 // @author       Dawn_Xinyu
 // @license      CC-BY-ND
@@ -18,7 +18,7 @@
 (function () {
   'use strict';
 
-  const VER = '1.0.0.2';
+  const VER = '1.0.1';
   const CFG_KEY = 'dvi.meow.cfg.v1';
   const LEGACY_GEO_KEY = 'dvi.meow.geo.v1';
   const DEFAULT_SUFFIX = '喵~';
