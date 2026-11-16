@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         [DVI] 精通任务助手（社区·混淆版）
+// @name         [DVI] 精通任务助手（社区版）
 // @namespace    https://deepveinidle.com/community
 // @version      0.4.3.9
 // @updateURL    https://gitee.com/Dawn_Xinyu/deep-vein-idle--script-update/raw/master/DVI%20%E7%B2%BE%E9%80%9A%E4%BB%BB%E5%8A%A1%E5%8A%A9%E6%89%8B%E4%B8%A8%E7%A4%BE%E5%8C%BA-%20%E6%B7%B7%E6%B7%86%E7%89%88.user.js
